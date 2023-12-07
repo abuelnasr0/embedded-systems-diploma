@@ -1,3 +1,5 @@
+// q) the average of students degree
+
 #include<stdio.h>
 
 int main(){ 
